@@ -27,10 +27,10 @@ author:
   name             : "Hanife Sen"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Computer Science"
-  location         : "Houston/Texas"
+  location         : "Texas/US"
   employer         : "University of Houston"
   uri              : # URL
-  email            : hanifesenn@outlook.com
+  email            : "hanifesenn@outlook.com"
 
   # Academic websites
   academia         : # URL
@@ -222,16 +222,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
