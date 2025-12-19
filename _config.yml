@@ -26,11 +26,11 @@ author:
   avatar           : "pp.jpeg"
   name             : "Hanife Sen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Computer Science"
   location         : "Houston/Texas"
   employer         : "University of Houston"
   uri              : # URL
-  email            : "hanifesenn@outlook.com" 
+  email            : hanifesenn@outlook.com
 
   # Academic websites
   academia         : # URL
